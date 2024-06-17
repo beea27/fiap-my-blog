@@ -16,7 +16,7 @@ Este projeto é uma aplicação React configurada usando Vite, Router, ContentFu
    VITE_ACCESS_TOKEN=<Seu valor unico do projeto no contentful>
    ```
 
-3. Execute o comando para realizar as instalações do Node:
+3. Execute o comando para realizar as instalações do node_modules:
    ```sh
    npm install
    ```
@@ -28,5 +28,5 @@ Este projeto é uma aplicação React configurada usando Vite, Router, ContentFu
 
 5. Execute o comando para iniciar o projeto:
    ```sh
-   npm run preview
+   npm run dev
    ```
